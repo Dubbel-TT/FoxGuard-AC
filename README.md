@@ -10,29 +10,47 @@ This is game security infrastructure.
 ## 🔒 Core Security Features
 
 ✔ Fully server-side detection architecture
+
 ✔ Encrypted RemoteEvent communication
+
 ✔ Hardened Anti-Cheat client data protection
+
 ✔ Integrity checks designed to resist common and advanced exploit techniques
+
 ✔ Extremely difficult to bypass
+
 ✔ Built for long-term stability and performance
 
 ## ⚙️ Configuration & Control
 
+
 ✔ Modern, high-end admin interface
+
 ✔ Supports 3+ languages (expandable)
+
 ✔ Fully customizable language system
+
 ✔ 20+ advanced configuration options
+
 ✔ Per-player permission enforcement
+
 ✔ Designed for ease of use without sacrificing power
+
 ✔ Deployment completed in under 5 minutes
 
 ## 🧠 Administrative & Moderation Systems
 
+
 ✔ Permanent ban system
+
 ✔ Instant kick system
+
 ✔ Mute system
+
 ✔ Warning system
+
 ✔ Quick-access administrative HUD
+
 ✔ Advanced Admin Management Panel
 
 ## 🛰️ Advanced Tools (Anti-Cheat Safe)
