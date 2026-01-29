@@ -56,8 +56,11 @@ This is game security infrastructure.
 ## 🛰️ Advanced Tools (Anti-Cheat Safe)
 
 ✔ Flight system (Anti-Cheat whitelisted)
+
 ✔ ESP system
+
 ✔ Real-time player data overlay:
+
 
 Name
 
@@ -70,8 +73,11 @@ Ping
 FPS
 
 ✔ Teleport system (Bring / Goto)
+
 ✔ Spectator mode
+
 ✔ Player freeze system
+
 
 ## ❌ Design Limitations (By Design)
 
