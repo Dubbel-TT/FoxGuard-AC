@@ -1,0 +1,75 @@
+8888888888                 .d8888b.                                888             d8888  .d8888b.  
+888                       d88P  Y88b                               888            d88888 d88P  Y88b 
+888                       888    888                               888           d88P888 888    888 
+8888888  .d88b.  888  888 888        888  888  8888b.  888d888 .d88888          d88P 888 888        
+888     d88""88b `Y8bd8P' 888  88888 888  888     "88b 888P"  d88" 888         d88P  888 888        
+888     888  888   X88K   888    888 888  888 .d888888 888    888  888 888888 d88P   888 888    888 
+888     Y88..88P .d8""8b. Y88b  d88P Y88b 888 888  888 888    Y88b 888       d8888888888 Y88b  d88P 
+888      "Y88P"  888  888  "Y8888P88  "Y88888 "Y888888 888     "Y88888      d88P     888  "Y8888P"
+
+                                                                                            
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+                                                                                                
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+                                          
+   
+   READ CAREFULLY!
+   This is the license agreement for the FoxGuard anti-cheat system.
+
+
+FOXGUARD ANTI-CHEAT — LICENSE AGREEMENT (v1.0)
+Copyright © 2026 FoxGuard. All Rights Reserved.
+
+1. GRANT OF PERMISSION
+   FoxGuard is provided free of charge during its Early Access period.
+   You are permitted to:
+     - Use FoxGuard in your own Roblox experiences.
+     - Modify configuration files intended for user customization.
+     - Share gameplay footage or screenshots containing FoxGuard output.
+
+2. RESTRICTIONS
+   You are NOT permitted to:
+     - Redistribute FoxGuard, in whole or in part.
+     - Reupload FoxGuard to any marketplace, model, or asset library.
+     - Sell, rent, or monetize FoxGuard directly or indirectly.
+     - Claim ownership or authorship of FoxGuard.
+     - Remove or alter copyright notices.
+     - Modify FoxGuard’s core scripts, detection logic, or security systems.
+     - Use FoxGuard for malicious, exploitative, or deceptive purposes.
+     - Remove, modify, extract, or reuse any FoxGuard logos, icons, branding,
+       UI elements, or visual assets contained within the system or its scripts.
+
+3. FUTURE LICENSING
+   FoxGuard may transition to a paid licensing model in future versions.
+   Users of the free Early Access version:
+     - May continue using the version they downloaded.
+     - Are not automatically granted rights to future paid versions.
+     - Must obtain a valid license to use paid releases.
+
+4. NO WARRANTY / NO GUARANTEE OF PROTECTION
+   FoxGuard is provided “as is”, without warranty of any kind.
+   The developer does NOT guarantee:
+     - 100% protection of your game or server.
+     - Complete prevention of exploits, cheats, or malicious activity.
+     - That FoxGuard will detect every exploit or bypass attempt.
+   The developer is not responsible for:
+     - False positives.
+     - Missed detections.
+     - Game performance issues.
+     - Data loss.
+     - Any damages resulting from use of FoxGuard.
+
+5. TERMINATION
+   This license is automatically terminated if you:
+     - Violate any restriction in Section 2.
+     - Attempt to bypass or modify FoxGuard’s protections.
+     - Redistribute or resell FoxGuard.
+   Upon termination, you must remove all copies of FoxGuard from your projects.
+
+6. OWNERSHIP
+   FoxGuard remains the exclusive property of its developer.
+   No rights are transferred except those explicitly granted in this Agreement.
+
+7. ACCEPTANCE
+   By using FoxGuard, you acknowledge that you have read, understood,
+   and agreed to this License Agreement.
