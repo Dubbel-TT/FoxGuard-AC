@@ -7,6 +7,8 @@ Built around strict server-side validation, encrypted communication layers, and 
 This is not a basic Anti-Cheat.
 This is game security infrastructure.
 
+please note that fox security is made by @Dubbel-TT im the only and signle developer for FoxGuard-AC i will try and publish newer versions soon or later.
+
 ## 🔒 Core Security Features
 
 ✔ Fully server-side detection architecture
